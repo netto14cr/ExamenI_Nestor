@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KotlinJavaRuntime">
+    <archive path="C:/Program Files/JetBrains/IntelliJ IDEA Educational Edition 2021.3.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Program Files/JetBrains/IntelliJ IDEA Educational Edition 2021.3.3/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+    <archive path="C:/Program Files/JetBrains/IntelliJ IDEA Educational Edition 2021.3.3/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" />
+  </library>
+</eclipse-userlibraries>
+
